@@ -3,7 +3,7 @@
 > *Bridging 6,000 years of ancient wisdom with cutting-edge computer science*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Live Demo](https://img.shields.io/badge/Demo-Live-brightgreen.svg)](https://georgesiosi.github.io/hyper64i/)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/georgesiosi/hyper64i)
 
 A revolutionary fusion of ancient Chinese philosophy (I-Ching) and modern complexity theory, implementing Williams' √t space-time simulation theorem on a 6-dimensional hypercube where each vertex corresponds to an I-Ching hexagram.
 
@@ -18,11 +18,14 @@ This isn't just another data structure visualization. It's a **breakthrough inte
 
 **The key insight**: Adjacent hexagrams differ by exactly one line, which maps perfectly to Hamming-1 transitions in the hypercube, ensuring optimal memory locality while providing meaningful symbolic context.
 
-## 🚀 Live Demo
+## 🚀 Quick Start
 
-**[Try it now in your browser!](https://georgesiosi.github.io/hyper64i/)**
+**No installation required!** Simply:
+1. Clone this repository
+2. Open `hypercube_iching_simulator.html` in your browser
+3. Explore the intersection of ancient wisdom and modern computer science
 
-No installation required - just open and explore the intersection of ancient wisdom and modern computer science.
+Or deploy instantly to Vercel using the button above.
 
 ## 🎯 Core Concept
 
