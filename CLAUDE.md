@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project implements a revolutionary fusion of ancient Chinese philosophy (I-Ching) and cutting-edge computer science theory, specifically combining Williams' √t space-time simulation theorem with a 6-dimensional hypercube memory scheduler.
+This project implements a fusion of ancient Chinese philosophy (I-Ching) and computer science theory, specifically combining Ryan Williams' √t space-time simulation theorem with a 6-dimensional hypercube memory scheduler.
 
 ## Core Concept
 
@@ -106,7 +106,7 @@ When extending the simulator, consider:
 
 ## Related Work
 
-This visualization is part of the broader **Conscious Stack Design** methodology, which focuses on aligning digital tools and workflows with human behavior to reduce digital chaos.
+This visualization is inspired by the broader **Conscious Stack Design** methodology, which focuses on aligning digital tools and workflows with human behavior to reduce digital chaos.
 
 **Learn more**: [consciousstackdesign.com](https://consciousstackdesign.com)
 
